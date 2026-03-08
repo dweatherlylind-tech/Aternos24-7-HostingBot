@@ -3,11 +3,11 @@
   "bot-account": {
     "username": "Technoblade",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
-  "server": {Rsmsseason1.aternos.me
+  "server": rsms
 
-    "ip":  bernedoodle.aternos.host:44349
+    "ip":  Rsmsseason1.aternos.me:44349 
     "port": 44349,
     "version": "1.21.1"
   },
