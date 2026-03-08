@@ -1,12 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK GUY",
   "bot-account": {
     "username": "Technoblade",
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip": "ricoiscool.aternos.me",
+  "server": {Rsmsseason1.aternos.me
+
+    "ip": Rsmsseason1.aternos.me:44349
     "port": 56559,
     "version": "1.21.1"
   },
